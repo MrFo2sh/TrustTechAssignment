@@ -1,0 +1,20 @@
+{
+  "name": "assignment-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fo2sh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "errorhandler": "^1.5.0",
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "mongoose": "^4.11.7",
+    "morgan": "^1.8.2"
+  }
+}
